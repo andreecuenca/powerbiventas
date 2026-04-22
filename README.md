@@ -1,0 +1,1 @@
+Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI enfocado en el análisis de ventas. El objetivo es transformar datos en información clara que facilite la toma de decisiones estratégicas.
